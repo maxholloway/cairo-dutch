@@ -10,7 +10,7 @@ Dutch auctions are a way to conduct discrete sales of multiple homogeneous units
 * A public `allocate()` function that can be invoked by anyone in order to allocate the sale proceeds _and_ pay back all excess capital that was over-locked (does this by calling `locked_buying_power(address)` for each address).
 
 ## Milestones
-[ ] Set up dev environment / project skeleton with Nile.
+[x] Set up dev environment / project skeleton with Nile.
 
 [ ] Implement + briefly test token helper contract
 
